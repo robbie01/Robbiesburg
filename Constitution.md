@@ -12,16 +12,16 @@ Any person who is a member of any one branch of government cannot be a member of
 ### The Head of Government ###
 The Head of Government is the ceremonial head of the government and represents the power of the government in the nation. The Head of Government cannot be a former council or parliament member. The Head of Government acts on the advice of the council. The HoG can kick of either the council or the parliament or both. The council unaminously can get rid of the HoG. HoG terms are for five years and the HoG is voted on by the council. 
 Powers given to the HoG exclusively:
-•	To preside over meetings of the council.
-•	To dismiss individual members of the council.
-•	To dismiss the parliament.
-•	To appoint and dismiss judges.
+* To preside over meetings of the council.
+* To dismiss individual members of the council.
+* To dismiss the parliament.
+* To appoint and dismiss judges.
 
 ### The Council ###
 The Council is responsible for exercising the power of the government within the bounds of this constitution and within the laws of the day. Majority vote is good for decisions. The council members are voted on individually for single positions within the council by all citizens of the state. Council terms are for two years and are made on a rotating basis. The councillors are as follows:
-•	Treasury & Taxation
-•	Judiciary Matters
-•	Foreign Matters
+* Treasury & Taxation
+* Judiciary Matters
+* Foreign Matters
 
 ### Parliament ###
 The parliament is to have two houses. One will have members chosen by area (all electorates the same physical size), one will have members chosen by population (all electorates the same population).
@@ -36,16 +36,6 @@ Sees murder, treason, and torts for amounts larger than X. Anything which is aga
 Lower Court
 Judge
 ## Election of People ##
-
-## Divisions of governming ##
-
-### Privy Council ###
-
-Privy Council members are voted on individually by the entire population. Council members then vote on a president of the council.
-
-### Parliament ###
-
-### Judiciary ###
 
 ## Misc. ##
 
