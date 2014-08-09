@@ -24,17 +24,32 @@ The Council is responsible for exercising the power of the government within the
 * Foreign Matters
 
 ### Parliament ###
+
 The parliament is to have two houses. One will have members chosen by area (all electorates the same physical size), one will have members chosen by population (all electorates the same population).
-Judiciary
-Appeals & Investigations Court
-Judge(5)
-Appeals of things from the two lower courts
-Also under instruction from the HoG can hold investigations into things, up to two judges can be chosen specifically for this task, other three must be regular appeals-level judges.
-Higher Court
-Judge + Jury(10)
-Sees murder, treason, and torts for amounts larger than X. Anything which is against the bill of rights.
-Lower Court
-Judge
+
+### Judiciary ###
+
+#### Appeals & Investigations Court ####
+
+This is the highest court and hears appeals from the Higher Court, consitutional
+challenges, as well as performing special investigations into other areas of the
+government (such as the police force or parliament).
+
+The head of government is the only personal who can request a special 
+investigation be started.
+
+A panel of 5 judges will preside over any proceedings.
+
+#### Higher Court ####
+
+* Judge + Jury(10)
+
+* Sees murder, treason, and torts for amounts larger than X. Anything which is against the bill of rights.
+
+#### Lower Court ####
+
+* Judge
+
 ## Election of People ##
 
 ## Misc. ##
