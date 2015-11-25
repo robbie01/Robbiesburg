@@ -3,7 +3,7 @@
 ## Flag ##
 
 ![Robbiesburg flag]
-(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Robbiesburg_flag.svg/320px-Robbiesburg_flag.svg.png)
+(https://robbie0630.github.io/flag.svg)
 
 ## Bill Of Rights ##
 
