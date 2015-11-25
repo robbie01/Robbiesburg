@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600">
+ <g>
+  <rect id="svg_9" height="200" width="300" y="0" x="0" fill="#0000b8"/>
+  <rect id="svg_10" height="200" width="300" y="0" x="300" fill="#00b400"/>
+  <rect id="svg_11" height="200" width="300" y="0" x="600" fill="#0000b8"/>
+  <rect id="svg_12" height="200" width="300" y="200" x="0" fill="#00b400"/>
+  <rect id="svg_13" height="200" width="300" y="200" x="600" fill="#00b400"/>
+  <rect id="svg_14" height="200" width="300" y="400" x="0" fill="#0000b8"/>
+  <rect id="svg_15" height="200" width="300" y="400" x="300" fill="#00b400"/>
+  <rect id="svg_16" height="200" width="300" y="400" x="600" fill="#0000b8"/>
+  <rect id="svg_17" height="200" width="300" y="200" x="300" fill="#ffffff"/>
+ </g>
+</svg>
